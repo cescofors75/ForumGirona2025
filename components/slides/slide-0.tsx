@@ -35,7 +35,7 @@ export default function Slide0() {
        <div className="absolute top-4 right-4 sm:top-6 sm:right-6 flex flex-col items-center">
         <div className="p-2 bg-[#f8e9f0] rounded-lg shadow-lg mb-1">
           <img 
-            src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://v0-baco-cat-presentation.vercel.app/&color=b5123d&bgcolor=f8e9f0" 
+            src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://forum-girona2025.vercel.app/&color=b5123d&bgcolor=f8e9f0" 
             alt="BACO.cat QR Code" 
             className="w-16 h-16 sm:w-20 sm:h-20"
           />
