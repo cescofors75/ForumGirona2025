@@ -34,18 +34,12 @@ export default function Slide2() {
         <Code className="mr-2 h-5 w-5 flex-shrink-0 text-blue-400" />
         <span>Algoritme desenvolupat íntegrament pel nostre equip</span>
       </li>
-      <li className="flex items-start">
-        <Users className="mr-2 h-5 w-5 flex-shrink-0 text-blue-400" />
-        <span>Amb el suport de Microsoft Hub Foundation</span>
-      </li>
+      
       <li className="flex items-start">
         <Server className="mr-2 h-5 w-5 flex-shrink-0 text-blue-400" />
-        <span>No utilitzem models de terceres empreses</span>
+        <span>No utilitzem models de IA de terceres empreses</span>
       </li>
-      <li className="flex items-start">
-        <Shield className="mr-2 h-5 w-5 flex-shrink-0 text-blue-400" />
-        <span>Seguretat i privacitat garantides</span>
-      </li>
+     
       <li className="flex items-start">
         <Zap className="mr-2 h-5 w-5 flex-shrink-0 text-blue-400" />
         <span>Augment de la velocitat de les respostes</span>
