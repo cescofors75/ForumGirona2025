@@ -67,8 +67,7 @@ export default function Slide4() {
           <div className="bg-[#2a121e]/80 p-6 rounded-lg border border-[#b5123d]/30 shadow-lg mb-6">
             <h4 className="text-xl font-semibold mb-4 text-[#b5123d]">Equip expert:</h4>
             <p className="text-[#f8e9f0]">
-              Liderat per Melcior Montero (11 anys d'experiencia al Celler de Can Roca) i un equip tècnic especialitzat en
-              desenvolupament i IA.
+              Liderat per Melcior Montero (11 anys d'experiencia al Celler de Can Roca) i Cesco Fors Enginyer Software.
             </p>
           </div>
        
@@ -87,10 +86,10 @@ export default function Slide4() {
                 { month: "Jun", value: 70 },
                 { month: "Jul", value: 90 },
                 { month: "Ago", value: 110 },
-                { month: "Set", value: 140 },
-                { month: "Oct", value: 170 },
-                { month: "Nov", value: 210 },
-                { month: "Des", value: 250 },
+                { month: "Set", value: 130 },
+                { month: "Oct", value: 150 },
+                { month: "Nov", value: 170 },
+                { month: "Des", value: 190 },
               ]}
               color="#b5123d"
               title="Creixement d'establiments (12 mesos)"
