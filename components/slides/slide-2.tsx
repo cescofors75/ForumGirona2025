@@ -16,7 +16,7 @@ export default function Slide2() {
     <div className={`slide p-4 sm:p-10 h-full transition-opacity duration-500 ${animate ? "opacity-100" : "opacity-0"}`}>
       <h2 className="text-2xl sm:text-3xl font-bold mb-3 sm:mb-6 text-[#b5123d]">Baco.cat - La solució intel·ligent</h2>
       <h3 className="text-xl sm:text-2xl font-semibold mb-4 sm:mb-8 text-[#f8e9f0]">
-        Primer recomenador virtual intel·ligent de Catalunya
+        Primer recomanador virtual intel·ligent de Catalunya
       </h3>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-8">

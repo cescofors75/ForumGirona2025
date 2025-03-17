@@ -28,7 +28,7 @@ export default function Slide0() {
           La revolució en recomanacions de vins
         </h2>
         <p className="text-base sm:text-xl text-[#f8e9f0] italic max-w-xs sm:max-w-2xl mx-auto text-center">
-          Primer recomenador virtual intel·ligent de Catalunya
+          Primer recomanador virtual intel·ligent de Catalunya
         </p>
       </div>
        {/* QR code positioned in top right corner */}
