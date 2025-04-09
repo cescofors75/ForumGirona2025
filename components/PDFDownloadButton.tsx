@@ -145,7 +145,7 @@ const PDFDownloadButton: React.FC = () => {
       const url = URL.createObjectURL(blob);
       const link = document.createElement('a');
       link.href = url;
-      link.download = 'ForumGirona2025_Presentation.pdf';
+      link.download = 'Girona2025_Presentation.pdf';
       link.click();
       
       // Clean up by revoking the object URL

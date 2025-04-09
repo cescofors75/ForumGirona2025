@@ -10,6 +10,8 @@ import Slide3 from "@/components/slides/slide-3"
 import Slide4 from "@/components/slides/slide-4"
 import Slide0 from "@/components/slides/slide-0"
 
+
+
 export default function Home() {
   const [currentSlide, setCurrentSlide] = useState(0)
   const totalSlides = 5
@@ -45,6 +47,8 @@ export default function Home() {
           {currentSlide === 2 && <Slide2 />}
           {currentSlide === 3 && <Slide3 />}
           {currentSlide === 4 && <Slide4 />}
+       
+         
         </div>
 
         <div className="mt-4 sm:mt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
